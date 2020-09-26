@@ -1,0 +1,32 @@
+body{
+  background-color: #260C1A;
+  color: #F4ECD6;
+}
+h1{
+  padding: 10px 10px 10px 10px;
+
+  color: #84ACCE;
+}
+
+img{
+  max-width: 100%;
+}
+
+footer{
+  padding: 10px 10px 10px 10px;
+}
+a{
+  color: #84ACCE;
+}
+hr{
+  background-color: #EF959D;
+}
+.bg-dark{
+  background-color: #413C58 !important;
+}
+
+.center{
+  text-align: center;
+  margin:auto;
+  display:block;
+}
